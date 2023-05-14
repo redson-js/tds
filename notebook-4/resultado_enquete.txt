@@ -1,0 +1,7 @@
+Resultado da votação:
+Foram computados 7 votos.
+Jogador 10: 2 votos (28.6%)
+Jogador 8: 1 votos (14.3%)
+Jogador 7: 3 votos (42.9%)
+Jogador 11: 1 votos (14.3%)
+O melhor jogador foi o número 7 com 3 votos, correspondendo a 42.9% do total de votos.
